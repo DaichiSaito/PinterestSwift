@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "NTHorizontalPageViewController.init(collectionViewLayout : UICollectionViewLayout!, currentIndexPath : NSIndexPath) -&gt; NTHorizontalPageViewController:NTHorizontalPageViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "indexPath.row">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "NavigationControllerDelegate.navigationController(UINavigationController, animationControllerForOperation : UINavigationControllerOperation, fromViewController : UIViewController, toViewController : UIViewController) -&gt; UIViewControllerAnimatedTransitioning?:NTWaterfallViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "fromViewController">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "NTWaterfallViewController.viewDidLoad() -&gt; ():NTWaterfallViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "NTWaterfallViewCell.self">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "NTNavigationController.popViewControllerAnimated(Bool) -&gt; UIViewController:NTNavigationController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "indexPath.row">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "UICollectionView.setToIndexPath(NSIndexPath) -&gt; ():Extension.swift">
+      </ContextState>
+      <ContextState
+         contextName = "NTWaterfallViewController.collectionView(UICollectionView, didSelectItemAtIndexPath : NSIndexPath) -&gt; ():NTWaterfallViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "indexPath.row">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
