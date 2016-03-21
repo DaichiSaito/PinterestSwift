@@ -84,6 +84,7 @@ class NTHorizontalPageViewController : UICollectionViewController, NTTransitionP
     
     func transitionCollectionView() -> UICollectionView!{
         // 画像をタップしたときやBack押下時の画面遷移時に呼ばれる。
+        // git
         print("transitionCollectionView")
         return collectionView
     }
